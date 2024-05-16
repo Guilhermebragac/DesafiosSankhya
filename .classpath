@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/repo-bibliotecasJava/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/repo-bibliotecasJava/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/repo-bibliotecasJava/java-net-http-request-factory-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/api_outros/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/repo-bibliotecasJava/jape.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/repo-bibliotecasJava/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/repo-bibliotecasJava/mge-modelcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/api_outros/cuckoo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/repo-bibliotecasJava/sanws.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guilherme.braga/Desktop/Projetos/bibliotecas-sankhya-padrao/repo-bibliotecasJava/javax.servlet.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
